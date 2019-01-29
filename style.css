@@ -1,0 +1,32 @@
+html {
+    box-sizing: border-box;
+    background:#4b4a4a;
+    font-family:'helvetica neue';
+    font-size: 20px;
+    font-weight: 200;
+}
+body {
+    margin: 0;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+.cta {
+    color:white;
+    text-decoration: none;
+}
+.panel1 {
+    background-image: url(./image/wolf.jpg);
+}
+.panel2 {
+    background-image: url(./image/architectural-design.jpg);
+}
+.panel3 {
+    background-image: url(./image/wolf-howling.jpg);
+}
+.panel4 {
+    background-image: url(./image/scenery.jpg);
+}
+.panel5 {
+    background-image: url(./image/eagle.jpg);
+}
